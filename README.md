@@ -4,6 +4,8 @@ Rustdesk ID Changer for Linux
 
 This is a Linux port from RustDesk ID Changer : https://github.com/abdullah-erturk/RustDesk-ID-Changer
 
+![image](https://github.com/aruyu/rustdesk-id-changer-linux/blob/master/running_screenshot.png)
+
 ## Getting starts
 
 * Download and run script with sudo
