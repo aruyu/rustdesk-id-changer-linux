@@ -183,8 +183,8 @@ function main()
   echo "================================================================="
   echo
   echo "  Current RustDesk ID : ${CURRENT_ID}"
-  echo "  Config file PATH    : ${RUSTDESK_BIN}"
-  echo "  RustDesk bin PATH   : ${RUSTDESK_CONFIG}"
+  echo "  RustDesk bin PATH   : ${RUSTDESK_BIN}"
+  echo "  Config file PATH    : ${RUSTDESK_CONFIG}"
   echo
   echo "================================================================="
   echo
